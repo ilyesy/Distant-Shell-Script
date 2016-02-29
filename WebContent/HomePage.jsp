@@ -19,15 +19,15 @@
     <form role="form" method="get" action="Start">
   <div class="form-group">
     <label for="host">host address:</label>
-    <input type="host" name="host" value="192.168.2.109" class="form-control" id="host">
+    <input type="host" name="host"  class="form-control" id="host">
   </div>
   <div class="form-group">
     <label for="user">User name:</label>
-    <input type="user" name="user" value="osboxes" class="form-control" id="user">
+    <input type="user" name="user"  class="form-control" id="user">
   </div>
   <div class="form-group">
     <label for="pwd">Password:</label>
-    <input type="password" name="password" value="osboxes.org"  class="form-control" id="pwd">
+    <input type="password" name="password"   class="form-control" id="pwd">
   </div>
   <button type="submit" class="btn btn-default">Submit</button>
 </form>
